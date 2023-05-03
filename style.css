@@ -7,7 +7,7 @@
 body{
     height: 100vh;
     display: grid;
-    grid-template-rows: 100px 1fr 100px;
+    grid-template-rows: 50 1fr 50px;
     padding: 70px 70px 24px 70px;
     background-color: #f5cf06;
     color: #8e4106;
